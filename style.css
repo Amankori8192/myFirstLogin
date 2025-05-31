@@ -4,7 +4,7 @@ body{
     align-items: center;
     min-height: 100vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background: url(assets/bg-img.jpg) no-repeat;
+    background: url(bg-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
